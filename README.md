@@ -15,9 +15,9 @@ Python Pandas NumPy Matplotlib StatsModels Scikit-learn SQL Plotly Streamlit
 __Дополнительно:__
 FastAPI Docker современные инструменты анализа данных
 
-📫 __Контакты__
-Email: xarlamov_96@mail.ru
-Telegram: @IIharlamovv
+📫 __Контакты:__ 
+ - Email: xarlamov_96@mail.ru
+ - Telegram: @IIharlamovv
 
 ✨ 
 Открыт к коллаборациям в ML-проектах
