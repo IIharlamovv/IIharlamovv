@@ -14,7 +14,7 @@ __Основной стек:__
 Python (PyTorch, Pandas, NumPy, Matplotlib, StatsModels, Scikit-learn, Streamlit), SQL, R
 
 __Дополнительно:__
-FastAPI, MLflow, Docker, PowerBI
+FastAPI, MLflow, Docker, PowerBI, Apache Spark, Git, Triton inference
 
 __Контакты:__ 
  - Email: xarlamov_96@mail.ru
